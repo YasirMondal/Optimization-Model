@@ -1,5 +1,12 @@
 # Linear Optimization Project – Production Planning
 
+*COMPANY*: CODTECH IT SOLUTIONS PVT.LTD
+*NAME*: Yasir Siraj Mondal
+*DOMAIN*: Data Science
+*DURATION*: 12 weeks
+*MENTOR*: Neela Santhosh Kumar
+
+
 ## Problem Statement
 This project demonstrates solving a *business optimization problem* using *Linear Programming (LP)* in Python.  
 A company produces *Product A* and *Product B*. Each product uses limited resources (labor and materials) and generates profit:
