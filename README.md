@@ -91,5 +91,3 @@ Author
 Yasir Mondal – mondalyasir386@gmail.com
 
 License: 2025 Yasir Mondal
-
-This README is *complete, professional, and fully explains the problem, solution, and usage*.
